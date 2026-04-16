@@ -1,4 +1,5 @@
-# 🐎 Dark Horse Predictions
+package .json 
+pages /index.j.s
 lib/ (Firebase file)
 A VIP football prediction platform offering free and premium betting tips...
 package . json
